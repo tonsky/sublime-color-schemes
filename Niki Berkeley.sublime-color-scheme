@@ -78,5 +78,16 @@
 
         {"scope": "markup.untracked",
          "foreground": "#808080"},
+
+        {"scope": "region.phantom.success",
+         "foreground": "#58C58B",
+         "background": "#032503"},
+
+        // {"scope": "region.phantom.success",
+        //  "background": "#1C1C1C"},
+
+        {"scope": "region.phantom.exception",
+         "foreground": "#ED5B25",
+         "background": "#38040e"}
     ]
 }
